@@ -1,0 +1,10 @@
+{
+  "name": "screenshot-manager",
+  "version": "0.1.0",
+  "description": "screenshot and screenshots manager powered by electron.",
+  "main": "index.js",
+  "repository": "git@github.com:AnthonyYY/screenshot-manager.git",
+  "author": "anthony.ye",
+  "license": "MIT",
+  "private": false
+}
